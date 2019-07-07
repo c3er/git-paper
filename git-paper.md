@@ -91,6 +91,8 @@ Commit often, perfect later, publish once
   - [Git Extensions](#git-extensions)
   - [posh-git](#posh-git)
   - [BFG Repo-Cleaner](#bfg-repo-cleaner)
+- [Recommended](#recommended)
+  - [Learn Git Branching](#learn-git-branching)
 - [Sources](#sources)
   - [General](#general)
   - [Remote repositories](#remote-repositories)
@@ -2306,6 +2308,12 @@ A PowerShell extension. It extends PowerShell to show the current Git status in 
 ## [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
 
 A tool that promises to make it easy to clean the commit history of files that should not be committed. Not tried by the author.
+
+# Recommended
+
+## [Learn Git Branching](https://learngitbranching.js.org/)
+
+An interactive tutorial for working with Git. It begins very basic and gets more and more advanced at each level. The visualization is of the current repository state is very neat.
 
 # Sources
 
