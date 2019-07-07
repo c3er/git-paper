@@ -1192,7 +1192,7 @@ index aa9da9c..5bd13ab 100644
 -using System.Linq;
 -using System.Text;
 -using System.Threading.Tasks;
- 
+
  namespace hello
  {
 @@ -10,6 +6,7 @@ namespace hello
@@ -1246,7 +1246,7 @@ index 0000000..d740e88
 @@ -0,0 +1,6 @@
 +´╗┐<?xml version="1.0" encoding="utf-8" ?>
 +<configuration>
-+    <startup> 
++    <startup>
 +        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
 +    </startup>
 +</configuration>
@@ -1282,7 +1282,7 @@ index 0000000..473b520
 +using System.Runtime.CompilerServices;
 +using System.Runtime.InteropServices;
 +
-+// General Information about an assembly is controlled through the following 
++// General Information about an assembly is controlled through the following
 +// set of attributes. Change these attribute values to modify the information
 +// associated with an assembly.
 +[assembly: AssemblyTitle("hello")]
@@ -1294,8 +1294,8 @@ index 0000000..473b520
 +[assembly: AssemblyTrademark("")]
 +[assembly: AssemblyCulture("")]
 +
-+// Setting ComVisible to false makes the types in this assembly not visible 
-+// to COM components.  If you need to access a type in this assembly from 
++// Setting ComVisible to false makes the types in this assembly not visible
++// to COM components.  If you need to access a type in this assembly from
 +// COM, set the ComVisible attribute to true on that type.
 +[assembly: ComVisible(false)]
 +
@@ -1305,11 +1305,11 @@ index 0000000..473b520
 +// Version information for an assembly consists of the following four values:
 +//
 +//      Major Version
-+//      Minor Version 
++//      Minor Version
 +//      Build Number
 +//      Revision
 +//
-+// You can specify all the values or you can default the Build and Revision Numbers 
++// You can specify all the values or you can default the Build and Revision Numbers
 +// by using the '*' as shown below:
 +// [assembly: AssemblyVersion("1.0.*")]
 +[assembly: AssemblyVersion("1.0.0.0")]
@@ -1372,7 +1372,7 @@ index 0000000..c4c0443
 +    <None Include="App.config" />
 +  </ItemGroup>
 +  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
++  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
 +       Other similar extension points exist, see Microsoft.Common.targets.
 +  <Target Name="BeforeBuild">
 +  </Target>
